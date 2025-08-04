@@ -99,11 +99,11 @@ Creates timestamped backups of configured directories.
 - **Multiple output formats** (HTML, Markdown)
 - **Customizable categories**
 
-###  Backup & Organization
+###  Backup 
 - **Selective file backup** with exclusion patterns
 - **Progress tracking** and size reporting
 - **Error handling** and logging
-- **Dry-run mode** for safe testing
+
 
 ###  Media Tools
 - **High-quality audio extraction**
@@ -113,7 +113,6 @@ Creates timestamped backups of configured directories.
 
 ## Safety Features
 
-- **Dry-run modes** in applicable scripts
 - **Input validation** and error handling
 - **Progress indicators** for long operations
 - **Backup creation** before file operations
